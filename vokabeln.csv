@@ -1,35 +1,35 @@
 Latein,Deutsch,Kartei,Wortart
 quis es?,Wer bist Du?; Wie heißt Du?,2,x
-Ego sum,Ich bin; ich heiße,2,x
+Ego sum,Ich bin; ich heiße,1,x
 familia,die Familie,1,s
-servus,der Diener; der Sklave,1,s
+servus,der Diener; der Sklave,2,s
 serva,die Dienerin; die Sklavin,1,s
 dominus,der Herr; der Hausherr,1,s
 domina,die Herrin; die Hausherrin,1,s
-negotium,das Geschäft (machen); die Aufgabe,1,s
+negotium,das Geschäft (machen); die Aufgabe,2,s
 est,er/sie/es ist; es gibt,1,v
 amicus,der Freund,1,s
 et,und,1,x
-amica,die Freundin,2,s
+amica,die Freundin,1,s
 ubi,wo,1,x
 non,nicht,1,x
 hic,hier,1,x
 properare,eilen; sich beeilen,1,v
-laborare,leiden; arbeiten,1,v
+laborare,leiden; arbeiten,2,v
 clamare,(laut) rufen; schreien,1,v
 sedere; sedeo; sedi,sitzen; dasitzen,1,v
 gaudere,sich freuen; froh sein,1,v
-sunt,sie sind; es gibt/findet statt,1,x
+sunt,sie sind; es gibt/findet statt,2,x
 nam,denn ; nämlich,1,x
 etiam,auch ; sogar,1,x
 ibi,dort,1,x
 debere,müssen; schulden,1,v
-nunc,nun; jetzt,1,x
+nunc,nun; jetzt,2,x
 sed,aber; doch; sondern,1,x
 cur?,warum?,1,x
 otium,die Freizeit; die Ruhe; die Muße,1,s
 forum,das Forum; der (Markt)Platz; das Stadtzentrum,1,s
-nomen,der Name,1,s
+nomen,der Name,2,s
 lectus,das Bett; die Liege,1,s
 mensa,der Tisch,1,s
 cibus,die Speise; das Essen; die Nahrung,1,s
@@ -41,23 +41,23 @@ quid?,was?,1,x
 ridere; rideo; risi,lachen; auslachen,1,v
 venire; venio; veni,kommen,1,v
 audire,hören; anhören,1,v
-dormire,schlafen,2,v
-desperare,verzweifeln; die Hoffnung aufgeben,2,v
+dormire,schlafen,1,v
+desperare,verzweifeln; die Hoffnung aufgeben,1,v
 tum,dann; darauf; da; damals,1,x
 iam,schon; bereits,1,x
-subito,plötzlich,1,x
+subito,plötzlich,2,x
 imperare,befehlen; anordnen; herrschen,1,v
-parere,gehorchen; folgen,2,v
+parere,gehorchen; folgen,1,v
 cessare,zögern; sich Zeit lassen,1,v
 salutare,grüßen; begrüßen,1,v
 salve!,sei gegrüßt; grüß dich!,1,x
 num?,etwa?,1,x
-aperire; aperio; aperui,öffnen; aufmachen,1,v
+aperire; aperio; aperui,öffnen; aufmachen,2,v
 intrare,betreten; eintreten,1,v
 verbum,das Wort,1,s
 tacere,still sein; schweigen; verschweigen,1,v
 rogare,fragen; bitte (um),1,v
-respondere; respondeo; respondi,antworten,1,v
+respondere; respondeo; respondi,antworten,2,v
 docere,lehren; beibringen; unterrichten,1,v
 fabula,die Geschichte; die Erzähliung; das Theaterstück,1,s
 laudare,loben,1,v
@@ -81,28 +81,28 @@ enim,denn; nämlich,1,x
 grammaticus,der Literaturlehrer,1,s
 magister,der Lehrer,1,s
 Romanus,der Römer,1,s
-dea,die Göttin,1,s
+dea,die Göttin,2,s
 deus,Gott,1,s
 sacrum,das Opfer(tier); die Opferhandlung,1,s
 ara,der Altar,1,s
-templum,der Tempel,1,s
+templum,der Tempel,2,s
 ignorare,nicht wissen ; nicht kennen,1,v
-non ignorare,genau wissen,1,v
+non ignorare,genau wissen,2,v
 habere,haben,1,v
 timere,sich fürchten; Angst haben,1,v
 colere; colo; colui,bewirtschaften; bebauen; pflegen; verehren,1,v
 emere; emo; emi,kaufen,1,v
 vendere; vendo; vendidi,verkaufen,1,v
-dicere; dico; dixi,sagen; sprechen; reden; nennen,2,v
-facere; facio; feci,tun; machen; ausführen,1,v
+dicere; dico; dixi,sagen; sprechen; reden; nennen,1,v
+facere; facio; feci,tun; machen; ausführen,2,v
 cupere; cupio; cupivi,wünschen; haben wolln; begehren,1,v
-novem,neun,2,x
-mille,tausend,1,x
+novem,neun,1,x
+mille,tausend,2,x
 nummus,die Münze,1,s
 poscere; posco; poposci,fordern,1,v
 tres,drei,1,x
 incendere; incendo; incendi,entflammen; in Brand setzen,2,v
-sex,sechs,1,x
+sex,sechs,2,x
 iterum,wiederum; ein zweies mal,1,x
 certe,sicher; gewiss,1,x
 si,wenn; falls,1,x
@@ -114,26 +114,26 @@ filius,der Sohn,1,s
 effugere; effugio; effugi,entkommen,1,v
 mercator,der Händler; Kaufmann,1,s
 senator,der Senator,1,s
-gladiator,der Gladiator,2,s
+gladiator,der Gladiator,1,s
 fur,der Dieb; die Diebin,1,s
-clamor,der Schrei; das Gesschrei; der Lärm,1,s
-esse; sum; fui,sein,1,v
-adesse; adsum,da sein; helfen,1,x
-abesse; absum,fort sein; weg sein; fehlen,1,x
-retinere; retineo,zurückhalten; behalten; festhalten,1,v
-intus,innne; im inneren,1,x
-turba,die (Menschen-)Menge; das Durcheinander; das Gedränge,1,s
-amor,die Liebe,1,s
-dolor,der Schmerz,1,s
-vita,das Leben; die Lebensweise,1,s
-bestia,das (wilde) Teir,1,s
-liberi,die Kinder,1,s
-porta,die Tür; das Tor; der eingang,1,s
-claudere; claudo; clausi,schließen; einschließen; versprerren,1,v
+clamor,der Schrei; das Gesschrei; der Lärm,2,s
+esse; sum; fui,sein,2,v
+adesse; adsum,da sein; helfen,2,x
+abesse; absum,fort sein; weg sein; fehlen,2,x
+retinere; retineo,zurückhalten; behalten; festhalten,2,v
+intus,innne; im inneren,2,x
+turba,die (Menschen-)Menge; das Durcheinander; das Gedränge,2,s
+amor,die Liebe,2,s
+dolor,der Schmerz,2,s
+vita,das Leben; die Lebensweise,2,s
+bestia,das (wilde) Tier,2,s
+liberi,die Kinder,2,s
+porta,die Tür; das Tor; der eingang,2,s
+claudere; claudo; clausi,schließen; einschließen; versprerren,2,v
 non iam,nicht mehr,1,x
-larva,das Gespenst,1,s
-persona,die Maske; die Rolle (im Schausoiel),1,s
-scaena,die Bühne,1,s
+larva,das Gespenst,2,s
+persona,die Maske; die Rolle (im Schausoiel),2,s
+scaena,die Bühne,2,s
 occurrere; occuro; occurri,entgegenlaufen; -treten; begegnen,2,v
 curia,die Kurie; das Rathaus,2,s
 orator,der Redner,2,s
@@ -143,22 +143,22 @@ fugere; fugio; fugi,fliehen (vor); meiden,2,v
 locus,der Ort; der Platz; die Stelle,2,s
 dare; do; dedi,geben,2,v
 appropinquare; appropinqo, sich nähern; näher kommen,2,v
-relinquere; relinquo; reliqui,verlassen; zurücklassen,1,v
+relinquere; relinquo; reliqui,verlassen; zurücklassen,2,v
 agere; ago; egi,tun; handeln; verhandeln; treiben,2,v
 negotia agere,Geschäft betreiben,2,x
 bestiam agere,ein Tier jagen,2,x
 fabulam agere,ein Theaterstück aufführen,2,x
 quid agis?,wie geht es dir?,2,x
 vitam agere,sein Leben verbringen,1,x
-mittere; mitto; misi,schicken; loslassen; laufen lassen; werfen,1,v
+mittere; mitto; misi,schicken; loslassen; laufen lassen; werfen,2,v
 posse ; possum; potui,können; vermögen,2,v
-nondum,noch nicht,1,x
-exspectare; exspecto,warten (auf); erwarten,1,v
-statim,sofort; auf der Stelle,1,x
+nondum,noch nicht,2,x
+exspectare; exspecto,warten (auf); erwarten,2,v
+statim,sofort; auf der Stelle,2,x
 venia,die Nachsicht; die Verzeihung,2,s
-veniam dare,verzeihen,1,x
-resistere; resisto; resisti,sich widersetzen; Widerstand leisten,1,v
-adhuc,bis jetzt; immer noch,1,x
+veniam dare,verzeihen,2,x
+resistere; resisto; resisti,sich widersetzen; Widerstand leisten,2,v
+adhuc,bis jetzt; immer noch,2,x
 explicare; explico,erklären,2,v
 nuper,neulich,2,x
 signum,das Zeichen; das Feldzeichen,2,s
@@ -184,7 +184,7 @@ forte,zufällig,2,x
 intellegere; intellego; intellexi,erkennen; verstehen; einsehen,2,v
 comprehendere; comprehendo; comprehendi,ergreifen; festnehmen; erfassen,2,v
 servare; servo,retten (vor) ; bewahren ; beschützen,2,v
-sollicitare; sollicito,beunruhigen; eregen,4,v
+sollicitare; sollicito,beunruhigen; eregen,2,v
 convincere; convinco; convici,überführen,2,v
 gaudium,die Freude,2,s
 gladius,das Schwert,2,s
@@ -280,7 +280,7 @@ cognoscere; cognosco; cognovi,kennenlernen; erkennen; erfahren,2,v
 memoria; -ae,die Erinnerung; das Gedächtnis,2,s
 memoria comprehendere,im Gedächtnis behalten,2,x
 sumere; sumo; sumpsi,nehmen,2,v
-iacere; iaceo,liegen,1,v
+iacere; iaceo,liegen,2,v
 tempus; temporis n ,die Zeit,2,c
 mos; moris m,die Sitte; der Bauch; PL auch Charakter,2,s
 hodie,heute,2,x
@@ -317,7 +317,7 @@ componere; compono; composui,zusammenstellen; verfassen; ordnen,2,v
 quomodo,wie; auf welche Weise,2,x
 indicium; -i n,de Beweis,2,s
 animus; -i,die Gesinung; der Sinn; Mut; der Geist,2,s
-pergere; pergo; perrexi,fortsetzen; weitermachen; aufbrechen,1,v
+pergere; pergo; perrexi,fortsetzen; weitermachen; aufbrechen,2,v
 clam,heimlich,2,x
 pater; patris,der Vater,2,s
 clarus; -a; -um,berühmt; klar,2,x
@@ -450,7 +450,7 @@ cedere; cedo; cessi,(weg-) gehen; weichen; nachgeben,2,v
 valere; valeo,gesund sein; vermögen; Einfluss haben,2,v
 vale/valete,lebe wohl,2,x
 nihil valere,nichts vermögen; keinen Einfluss haben,2,v
-violare; violo,verletzen; Misshandeln,1,v
+violare; violo,verletzen; Misshandeln,2,v
 defendere; defendo; defendi (a/ab),verteidigen (gegen),2,v
 meus; -a; -um,mein,2,x
 vester; vestra; vestrum,euer,2,x
@@ -458,7 +458,7 @@ tuus; -a; -um,dein,2,x
 noster; nostra; nostrum,unser,2,x
 suus; -a; -um,sein; ihr,2,x
 sui; -orum m (pl),die Seine; die Ihre,1,x
-soror; sororis,die Schwester,4,s
+soror; sororis,die Schwester,2,s
 permittere; permitto; permisi,erlauben; überlassen,2,v
 prohibere; prohibeo,abhalten (von); hindern (an); verhindern,2,v
 necesse est,es ist nötig,2,x
@@ -471,34 +471,34 @@ multa nocte,tief in der Nacht,1,x
 prima nocte,zu begin der Nacht,1,x
 ardere; ardeo; arsi,brennen; glühen,1,v
 capere; capio; cepi,nehmen; fangen; ergreifen; einnehmen,1,v
-patria; -ae f,das Vaterland; dei Heimat,2,s
-mare; maris; (Abl. S mari / Nom Akk Pl maria / Gen Pl marium),das Meer,2,s
+patria; -ae f,das Vaterland; dei Heimat,1,s
+mare; maris; (Abl. S mari / Nom Akk Pl maria / Gen Pl marium),das Meer,1,s
 errare; erro,sich irren; (umher)irren,1,v
 ante,vor,1,x
-lacrima; -ae,die Träne,1,s
+lacrima; -ae,die Träne,2,s
 pius; -a ; -um,fromm; verantwortungsbewusst; pflichtbewusst,1,
-nullo modo,auf keine Weise,1,x
+nullo modo,auf keine Weise,2,x
 mai; -orum m (Pl),die Meinen; meine Leute,1,s
-et...et,sowohl... als auch,1,x
-ex eo tempore,seit dieser Zeit,1,x
-de vita decedere,aus dem Leben scheiden,1,x
+et...et,sowohl... als auch,2,x
+ex eo tempore,seit dieser Zeit,2,x
+de vita decedere,aus dem Leben scheiden,2,x
 in mentem venire,in den sinn kommen,2,x
 prima luce,bei Tagesanbruch,2,x
-causa; -ae,derGrund; die Ursache; der Fall; der (Gerichts-)Prozess,1,s
-ceteri; -ae; -a,die übrigen; die andren,1,x
-infelix; infelicis,unglücklich,1,x
-superbus; -a; -um,hochmütig; stolz,1,x
+causa; -ae,der Grund; die Ursache; der Fall; der (Gerichts-)Prozess,2,s
+ceteri; -ae; -a,die übrigen; die andren,2,x
+infelix; infelicis,unglücklich,2,x
+superbus; -a; -um,hochmütig; stolz,2,x
 mox,bald; dann,1,x
-umbra; -ae,der Schatten,2,s
+umbra; -ae,der Schatten,1,s
 inter,zwischen; während,1,x
 vertere; verto; verti,drehen; (um)wenden,1,v
--ne,unübersetztes Fragepartikel,2,x
+-ne,unübersetztes Fragepartikel,1,x
 iurare; iuro,schwören,1,x
-per deos iurare,bei den Göttern schwören,2,x
+per deos iurare,bei den Göttern schwören,1,x
 lacrimas tenere,Tränen zurückhalten,1,x
-oculos vertere,seinen Blick richten auf,1,x
-regnum; -i,die Herrschaft; die Königsherrschaft; das Reich,2,s
-dum,(solange) bis; solange; (m. Ind. Präs) während,1,x
+oculos vertere,seinen Blick richten auf,2,x
+regnum; -i,die Herrschaft; die Königsherrschaft; das Reich,1,s
+dum,(solange) bis; solange; (m. Ind. Präs) während,2,x
 postquam,nachdem,1,x
 quamquam,obwohl,1,x
 murus,die Mauer,1,s
@@ -506,26 +506,26 @@ lupa; -ae,die Wölfin,1,s
 fama; -ae f,das Gerücht; der (gute oder schlechte) Ruf,1,s
 orare; oro,beten (zu); bitten,1,v
 miles; militis,der Soldat,1,s
-filia; -ae f,die Tochter,1,s
+filia; -ae f,die Tochter,2,s
 gerere; gero; gessi,tragen; führen; ausführen,1,v
 negotia gerere,seinen Geschäften nachgehen,1,x
 bellum gerere (cum),Krieg führen (mit),1,x
 vestem gerere,ein Kleidungsstück tragen,1,x
 se gerere,sich benehmen,1,x
-res; rei f,die Sache; das Ding; die Angelegenheit,2,s
+res; rei f,die Sache; das Ding; die Angelegenheit,1,s
 dies; diei m,der Tag,1,s
 fides; fidei f,das Vertrauen; die Treue; die Zuverlässigkeit,1,s
 fidem dare,dein Wort geben,1,x
-fidem habere,Vertrauen schenken,1,x
-acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,1,s
-acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),1,x
-aciem institutere,eine Schlachtreihe aufstellen,1,x
-alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... ajektiv,1,x
-alii...alii,die einen... die anderen...,1,x
-alius aliud facit,jeder macht etwas anderes,1,x
-accurrere; accurro; accucurri,hinzulaufen; herbeieilen,1,v
-mortuus; -a; -um,tot (adjektiv),1,x
-facies; faciei f,das Gesicht; das Aussehen,1,s
+fidem habere,Vertrauen schenken,2,x
+acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,2,s
+acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),2,x
+aciem institutere,eine Schlachtreihe aufstellen,2,x
+alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... (adjektiv),2,x
+alii...alii,die einen... die anderen...,2,x
+alius aliud facit,jeder macht etwas anderes,2,x
+accurrere; accurro; accucurri,hinzulaufen; herbeieilen,2,v
+mortuus; -a; -um,tot (adjektiv),2,x
+facies; faciei f,das Gesicht; das Aussehen,2,s
 facie cognoscrere,am Gesicht erkennen,2,x
 regnare; regno,König sein; herrschen; regieren,2,v
 aliquando,einst; (irgendwann) einmal,2,x
@@ -547,7 +547,7 @@ hostis; hostis m/f,der/die Feind(in),2,s
 indicare; indico,anzeigen; melden; verraten,2,v
 exercitus; exercitUs m,das Heer,2,s
 manus; manUs f,die Hand; die Schar,2,s
-vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,1,s
+vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,2,s
 cultus; cultUs m,die Pflege; die Verehrung,2,s
 domus; domUs f,das Haus,2,s
 domo,von zu Hause weg,2,x
@@ -584,27 +584,34 @@ promittere; promitto; promisi,versprechen,2,v
 fere,fast; ungefähr,2,x
 crbis; orbis; GenPl orbium,der Kreis; die Scheibe,2,s
 velut,wie; wie zum Beispiel,2,x
-ignoscere; ignosco; ignovi,verzeihen,1,v
+ignoscere; ignosco; ignovi,verzeihen,2,v
 modo,nur; eben noch; gerade,2,x
 exilium; -i,die Verbannung; das Exil,2,s
 restitutere; restituo; restitui,wiederharstellen,2,v
 magistratus; magistratUs m,der Beamte; das Amt,2,s
 moenia; moenium n Pl,die Mauer(n); die Stadtmauer(n),2,s
 fortis; forte,tapfer; stark; tatkräftig,2,x
-honestus; -a; -um,ehrenhaft; tapfer,1,x
+honestus; -a; -um,ehrenhaft; tapfer,2,x
 neque/nec,und nicht; auch nicht,2,x
 neque...neque / nec...nec,weder... noch,2,x
-nobilis; nobile,vornehm; adelig; berühmt,4,x
+nobilis; nobile,vornehm; adelig; berühmt,2,x
 exstinquere; exstinguo; exstinxi,auslöchen; löschen; vernichten,2,v
-parere; pario; peperi,zur Welt bringen; erzeugen; erwerben,1,v
+parere; pario; peperi,zur Welt bringen; erzeugen; erwerben,2,v
 flectere; flecto; flexi,biegen; beugen; umstimmen,2,v
 hic; haec; hoc,dieser (hier); diese (hier); dieses (hier),2,x
 ille; illa; illud,jener; jene; jenes,2,x
-mandare; mando,übergeben; anvertrauen; auftragen,1,v
-dux; ducis m/f,der Anführer / die Anführerin,1,s
-caedere; ceado; cecidi,fällen; niederschlagen; töten,1,v
+mandare; mando,übergeben; anvertrauen; auftragen,2,v
+dux; ducis m/f,der Anführer / die Anführerin,2,s
+caedere; ceado; cecidi,fällen; niederschlagen; töten,2,v
 alter; altera; alterum; gen alterius dat alteri,der eine (von beiden) ; der andere,1,x
 alter...alter,der eine...der andere...,2,x
 nuntiare; nuntio,melden; mitteilen,1,v
-femina; feminae,die Frau,1,s
+femina; feminae,die Frau,2,s
 castra; -orum n Pl,das Lager; das Kriegslager,2,s
+comes; comitis,der/die Gefährte*in; der/die Begleiter*in,2,s
+nisi,wenn nicht; außer,2,x
+non...nisi,nur ...wenn,2,x
+an (im Fragesatz),oder (im Fragesatz),2,x
+aspicere; aspicio; aspexi,ansehen; erblicken,2,v
+intra,innerhalb,1,x
+odium; -i n,der Hass,2,s
